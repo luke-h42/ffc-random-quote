@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ffc-random-quote/static/css/main.8a61ea90.css",
+    "main.js": "/ffc-random-quote/static/js/main.d1e3fb12.js",
+    "static/js/453.24d52f09.chunk.js": "/ffc-random-quote/static/js/453.24d52f09.chunk.js",
+    "static/media/twitter.png": "/ffc-random-quote/static/media/twitter.e4f83bef4191a65e9c7d.png",
+    "index.html": "/ffc-random-quote/index.html",
+    "main.8a61ea90.css.map": "/ffc-random-quote/static/css/main.8a61ea90.css.map",
+    "main.d1e3fb12.js.map": "/ffc-random-quote/static/js/main.d1e3fb12.js.map",
+    "453.24d52f09.chunk.js.map": "/ffc-random-quote/static/js/453.24d52f09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a61ea90.css",
+    "static/js/main.d1e3fb12.js"
+  ]
+}
